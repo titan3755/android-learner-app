@@ -5,13 +5,13 @@ plugins {
 }
 
 android {
-    namespace = "com.example.greetz"
-    compileSdk = 34
+    namespace = "com.example.textapp"
+    compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.greetz"
+        applicationId = "com.example.textapp"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
